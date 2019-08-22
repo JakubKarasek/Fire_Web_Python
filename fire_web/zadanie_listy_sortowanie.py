@@ -29,15 +29,6 @@ print(my_list)
 
 
 
-#próba bez użycia funkcji
-"""kryterium = []
-for y in my_list:
-    a = len(y[0])
-    kryterium.append(a)
-    kryterium.sort
-print(kryterium)
-"""
-
 
 
 
